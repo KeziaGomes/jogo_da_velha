@@ -1,1 +1,4 @@
-# jogo_da_velha
+# Jogo da velha
+
+### Como ficou o projeto final.
+
